@@ -2,8 +2,8 @@
 
 ## Letters ## 
 
-![alt_text]()
+![alt_text](https://github.com/digaumlv/GetLettersFromPixel/blob/main/Letras.gif)
 
 ## Numbers ## 
 
-![alt text]()
+![alt text](https://github.com/digaumlv/GetLettersFromPixel/blob/main/Number.gif)
